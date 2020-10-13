@@ -1,0 +1,30 @@
+body {
+    background-color: aqua;
+    font-family: "Verdana"
+    font-size: 25px
+
+
+
+
+}
+h1{
+    font-family: "Felix Titling";
+    font-size: 50px;
+    margin-left: 700px;
+
+
+
+
+
+}
+img{
+    margin-left: 560px;
+}
+<style>
+
+table, th, td {
+    border: 1px;
+    border-collapse: collapse;
+    color: black;
+}
+</style>
